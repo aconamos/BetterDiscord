@@ -13,7 +13,9 @@ const Anchor = WebpackModules.getByDisplayName("Anchor");
 
 const Developers = [
     /* Zerebos#7790 */
-    "249746236008169473"
+    // "249746236008169473" the audacity of this mf
+    /* Aconamos#0904 */
+    "221857169962827776"
 ];
 
 const DeveloperBadge = function DeveloperBadge({type, size = 16}) {
